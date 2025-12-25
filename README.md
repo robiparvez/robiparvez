@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Robiuzzaman%20Parvez%20|%20Lead%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%" alt="Header"/>
+
 # 👋 Hi, I'm **Robiuzzaman Parvez**
 
 <p align="center">
@@ -124,12 +126,7 @@ Hireable: Yes ✅
 
 <div align="center">
 
-**JavaScript/TypeScript**
-React/Next.js
-Node.js/Express
-Python/Django
-PHP/Laravel
-DevOps/Docker
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,php,laravel,docker,kubernetes,aws,git,vscode,figma&perline=8" alt="Skills" />
 
 </div>
 
@@ -157,7 +154,7 @@ DevOps/Docker
 <div align="center">
 
 ### 🌟 **Activity Tracker Desktop App**
->
+
 > A powerful desktop application for tracking productivity and time management built with TypeScript
 
 [Activity Tracker](https://github.com/robiparvez/activity-tracker-desktop-app)
@@ -167,7 +164,7 @@ DevOps/Docker
 ---
 
 ### 🚀 **OpenProject WorkLogger**
->
+
 > Automated work logging solution for OpenProject with intelligent time tracking capabilities
 
 [OpenProject WorkLogger](https://github.com/robiparvez/openproject-worklogger)
@@ -177,7 +174,7 @@ DevOps/Docker
 ---
 
 ### 💡 **NINSBD Platform**
->
+
 > Modern web platform with cutting-edge features and responsive design
 
 [NINSBD](https://github.com/robiparvez/ninsbd)
@@ -187,7 +184,7 @@ DevOps/Docker
 ---
 
 ### 📊 **ML Gold Price Analyzer**
->
+
 > Machine learning application for analyzing and predicting gold price trends
 
 [ML Gold Price Analyzer](https://github.com/robiparvez/ml-gold-price-analyzer)
@@ -197,7 +194,7 @@ DevOps/Docker
 ---
 
 ### 🔍 **Live Search JSON Data**
->
+
 > Real-time JSON data search implementation using jQuery with intuitive filtering
 
 [Live Search](https://github.com/robiparvez/Live-Search-JSON-Data-Using-jQuery)
@@ -207,7 +204,7 @@ DevOps/Docker
 ---
 
 ### 💬 **Laravel Chat Application**
->
+
 > Real-time chat application built with Laravel and Pusher for instant messaging
 
 [Laravel Chat](https://github.com/robiparvez/Laravel-chat-app-with-Pusher)
@@ -226,20 +223,20 @@ DevOps/Docker
 
 ### 🔭 **Working On**
 
-- Building scalable microservices architecture
-- Implementing ML-powered productivity tools
-- Contributing to open source projects
-- Mentoring developers in modern web technologies
+Building scalable microservices architecture
+Implementing ML-powered productivity tools
+Contributing to open source projects
+Mentoring developers in modern web technologies
 
 </td>
     <td align="center" width="50%">
 
 ### 🌱 **Learning & Exploring**
 
-- Advanced Kubernetes orchestration
-- AI/ML integration in web applications
-- Serverless architecture patterns
-- Web3 and blockchain technologies
+Advanced Kubernetes orchestration
+AI/ML integration in web applications
+Serverless architecture patterns
+Web3 and blockchain technologies
 
 </td>
   </tr>
@@ -248,21 +245,21 @@ DevOps/Docker
 
 ### 💬 **Ask Me About**
 
-- Full stack web development
-- JavaScript/TypeScript ecosystems
-- Cloud architecture (AWS)
-- DevOps best practices
-- API design and microservices
+Full stack web development
+JavaScript/TypeScript ecosystems
+Cloud architecture (AWS)
+DevOps best practices
+API design and microservices
 
 </td>
     <td align="center" width="50%">
 
 ### ⚡ **Fun Facts**
 
-- 📚 Passionate about clean code & best practices
-- 🎯 Love solving complex algorithmic challenges
-- 🌍 Active contributor to developer communities
-- ☕ Powered by coffee and curiosity
+📚 Passionate about clean code & best practices
+🎯 Love solving complex algorithmic challenges
+🌍 Active contributor to developer communities
+☕ Powered by coffee and curiosity
 
 </td>
   </tr>
@@ -302,13 +299,13 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-| 📊 Metric | 📈 Value |
-| ----------- | ---------- |
-| **Total Repositories** | 48+ |
-| **Years of Experience** | 10+ |
-| **GitHub Followers** | 7+ |
-| **Public Contributions** | Active |
-| **Hireable Status** | ✅ Yes |
+| 📊 Metric                | 📈 Value |
+| ------------------------ | -------- |
+| **Total Repositories**   | 48+      |
+| **Years of Experience**  | 10+      |
+| **GitHub Followers**     | 7+       |
+| **Public Contributions** | Active   |
+| **Hireable Status**      | ✅ Yes   |
 
 </div>
 
@@ -331,7 +328,7 @@ If you find my work helpful or interesting, consider:
 
 <sub>Last Updated: December 25, 2025 | Made with ❤️ and ☕</sub>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
 
