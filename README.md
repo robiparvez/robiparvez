@@ -450,9 +450,9 @@ Hireable: Yes ✅
 <div align="center">
 
 <img width="49%" class="github-stats-card" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robiparvez&theme=tokyonight" alt="GitHub Stats" />
-<img width="49%" class="github-streak-card" src="https://github-readme-streak-stats.herokuapp.com/?user=robiparvez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" class="language-chart" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robiparvez&theme=tokyonight" alt="Top Languages" />
 
-<img width="60%" class="language-chart" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robiparvez&theme=tokyonight" alt="Top Languages" />
+<img width="98%" class="github-profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robiparvez&theme=tokyonight" alt="GitHub Profile Details" />
 
 </div>
 
